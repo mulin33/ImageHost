@@ -1,2 +1,2 @@
 # ImageHost
-muLin's pocture host（图床）
+muLin's blog pocture host（图床）
